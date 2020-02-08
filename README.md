@@ -1,6 +1,6 @@
 # Capgemini_DataCamp2020_Group3
 
-# Team members: Delong LI, Doha KADDAF, Honghao YU, Jiayu GAN, Qiwen ZHAO
+### Team members: Delong LI, Doha KADDAF, Honghao YU, Jiayu GAN, Qiwen ZHAO
 
 # Week1 homework:
 
