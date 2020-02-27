@@ -27,3 +27,12 @@ Data pipeline: data collection -> data cleaning -> word embedding -> topic extra
      * One that takes a corpus of raw text and creates a new corpus with cleaned and lemmatized text
      * One that takes a corpus (or a dataframe text column) and creates a WordCloud from it
 - [ ] Create sets of KPI (both evident and shadow) you may collect from available open information (the idea is to anticipate what you'll present on the fourth session for the client meeting simulation)
+
+# Week3 homework:
+
+To practice what we learnt today, for next session, you’ll have to :
+
+- [ ] Apply LSI on your scraped data
+- [ ] Build a simple classification model using the embedding matrix and the rating of the review as target variable with a modern ML technique
+- [ ] Carry out the same analysis using FastText with the gensim package (optional)
+- [ ] Compare the performances of your models with the two or three type of embeddings
