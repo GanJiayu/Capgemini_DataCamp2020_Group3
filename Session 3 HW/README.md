@@ -7,7 +7,7 @@ To practice what we learnt today, for next session, you’ll have to :
 - [X] Carry out the same analysis using FastText with the gensim package (optional)
 - [X] Compare the performances of your models with the two or three type of embeddings </br>
     -- XGBoost + LSI/W2V/FT features </br>
-    -- MSE: Dummy(constant predictor) 1.34, LSI 1.34, W2V 0.70, FT 1.34
+    -- MSE: Dummy(constant predictor) 1.33, LSI 0.81, W2V 0.70, FT 1.39
 
 # Remarks:
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) We cached dataset/model/features on HDD </br>
