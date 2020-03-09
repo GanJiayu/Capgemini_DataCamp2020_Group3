@@ -59,4 +59,15 @@ To practice what we learnt today, for next session, you’ll have to :
      * Random walk embeddings: expressivity, efficiency; optimization
      * Node2Vec
       
-      
+# Session6 highlights:
+- [ ] Agile-Scrum methodology: the delivery principles
+     * Agile method: Features are available for users as soon as tested
+     * Scrum framework
+- [ ] Topic Extraction: Find hidden topics among a corpus of documents
+     * LSI/LSA: a technique for creating a **vector representation** of a document; first create a Term-Document matrix (A) and then perform Singular Value Decomposition (SVD) of A
+     * LDA (Latent Dirichlet Allocation): LDA model, Gibbs sampling, coherence score, evaluation
+     * GSDMM for short text: GSDMM is a **Short Text Topic Modeling** (STTM) method
+- [ ] Sentiment Analysis:
+     * Vader sentiment analysis: rules-based model
+     * Deep learning based models: character-level **LSTM**
+     * Comparing NLP libraries: flair vs. spaCy
