@@ -41,22 +41,22 @@ To practice what we learnt today, for next session, you’ll have to :
     
 # Session5 highlights:
 - [ ] Storyboarding: 
-      * Design the scenario: write the plan
-      * Design the arguments within the scenario
-      * Produce views: checking the fluidity between the messages
-      * Write the introduction and the conclusion
-      * Master the content
-      * Manage the transitions
+     * Design the scenario: write the plan
+     * Design the arguments within the scenario
+     * Produce views: checking the fluidity between the messages
+     * Write the introduction and the conclusion
+     * Master the content
+     * Manage the transitions
 - [ ] Advanced word representations:
-      * Vectorization: Word2Vec, Word2Vec Skipgram, negative sampling
-      * Efficient text classfication: FastText, hierarchical SOFTMAX
-      * Misspelling Oblivious Word Embeddings
-      * RNN, RNN encoder-decoder, attention mechanism
+     * Vectorization: Word2Vec, Word2Vec Skipgram, negative sampling
+     * Efficient text classfication: FastText, hierarchical SOFTMAX
+     * Misspelling Oblivious Word Embeddings
+     * RNN, RNN encoder-decoder, attention mechanism
 - [ ] Graph representations:
-      * Graphs can help for a various range of NLP tasks: Coreference Resolution, Entity Linking, Knowledge graph applications, Hypernym discovery
-      * Node embeddings
-      * Graph embeddings
-      * Random walk embeddings: expressivity, efficiency; optimization
-      * Node2Vec
+     * Graphs can help for a various range of NLP tasks: Coreference Resolution, Entity Linking, Knowledge graph applications, Hypernym discovery
+     * Node embeddings
+     * Graph embeddings
+     * Random walk embeddings: expressivity, efficiency; optimization
+     * Node2Vec
       
       
