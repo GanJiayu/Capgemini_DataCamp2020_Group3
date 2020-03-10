@@ -58,6 +58,9 @@ To practice what we learnt today, for next session, you’ll have to :
      * Graph embeddings
      * Random walk embeddings: expressivity, efficiency; optimization
      * Node2Vec
+- [ ] **TODO**:
+     * ex_tensorflow_w2v_session_5.ipynb
+     * session_5_hands_on_2.zip
       
 # Session6 highlights:
 - [ ] Agile-Scrum methodology: the delivery principles
